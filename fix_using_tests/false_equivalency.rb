@@ -16,15 +16,11 @@ def selection(num)
     binding.pry
      "YUM YUM MUNCH MUNCH MUNCH"
   elsif num = 2
-    binding.pry
      "HAM HAM HAM IN MY TUMMY"
   end
 end
-binding.pry
-puts "Hello"
 
 def runner
   prompt_user
   selection(get_user_input)
-  binding.pry
 end
