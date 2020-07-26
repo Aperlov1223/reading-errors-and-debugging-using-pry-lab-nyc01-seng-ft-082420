@@ -8,4 +8,4 @@ def snake_it_up(String)
     String
   end
 end
-snake_it_up(String)
+snake_it_up(string)
