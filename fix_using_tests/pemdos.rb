@@ -1,11 +1,11 @@
 # don't forget to add: require 'pry'
 require 'pry'
 
-def snake_it_up(String)
+def snake_it_up(string)
   if string[0] == "s"
-    10 * "s.to_i" + String
+    10 * "s.to_i" + string
   else
-    String
+    string
   end
 end
 snake_it_up(string)
