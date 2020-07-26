@@ -2,9 +2,9 @@
 
 def snake_it_up(num)
   if string[0] == "s"
-    10 * "s" + String
+    10 * "s" + "string"
   else
-    String
+    "string"
   end
 end
 snake_it_up(10)
